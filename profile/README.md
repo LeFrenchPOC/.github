@@ -1,6 +1,6 @@
 <h1 align="center">Le French POC</h1>
 <p align="center">
-  <img alt="Logo French POC" src="./img/logo_trans.png" />
+  <img alt="Logo French POC" src="./img/logo_trans.png" width="40%" height="40%"/>
 </p>
 
 ## Abstract
