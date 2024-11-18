@@ -1,6 +1,6 @@
 <h1 align="center">Le French POC</h1>
 <p align="center">
-  <img alt="Logo French POC" src="https://www.lefrenchpoc.fr/wp-content/uploads/2022/10/french_poc_logo_web-couleurs.png" />
+  <img alt="Logo French POC" src="./img/logo_trans.png" />
 </p>
 
 ## Abstract
